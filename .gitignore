@@ -1,0 +1,4 @@
+/server/OPCServer/appsettings.Development.json
+/server/.vscode/*
+/server/OPCServer/obj/*
+/server/OPCServer/bin/*

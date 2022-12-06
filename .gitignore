@@ -2,3 +2,4 @@
 /server/.vscode/*
 /server/OPCServer/obj/*
 /server/OPCServer/bin/*
+/server/opcserver.tar
